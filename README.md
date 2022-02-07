@@ -1,5 +1,10 @@
-# JavaScript Coding Interview Questions (SOLVED with CODE)💻
-<h3 align=center>Kill Your Tech Interview</h3>
+<div align="center">
+  <img height="60" src="https://img.icons8.com/color/344/javascript.png">
+  
+  # JavaScript Coding Interview Questions (SOLVED with CODE)💻
+  
+  <h3 align=center>Kill Your Tech Interview</h3>
+</div>
 
 > Having a JavaScript Coding Interview Session on this week? Fear not, I got your covered! Check that ultimate list of advanced and tricky JavaScript Coding Interview Questions and Challenges to crack on your next senior web developer interview and got your next six-figure job offer.
 
