@@ -62,6 +62,40 @@ Steps :
 </details>
 
 ---
+### Question 4:- Find the all possible combination-
+**Input: 1 2 3 4**
+|**Output**|
+|:-:|
+|2 1 3 4|
+|2 3 1 4|
+|2 3 4 1|
+|3 2 4 1|
+|3 4 2 1|
+|3 4 1 2|
+|4 3 1 2|
+|4 1 3 2|
+|4 1 2 3|
+|1 4 2 3|
+|1 2 4 3|
+|1 2 3 4|
+
+<details><summary><b>Code</b></summary>
+  
+```javascript```
+
+</details>
+
+---
+### Question 5:- Print all numbers of n x m matrix according to given pattern
+![pattern](https://user-images.githubusercontent.com/85709371/152857804-7cfb80a0-8a26-4f42-8fc7-b679511d23be.png)
+
+<details><summary><b>Code</b></summary>
+  
+```javascript```
+
+</details>
+
+---
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
