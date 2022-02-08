@@ -15,7 +15,7 @@
 Steps :
 1. Open Terminal or Command Prompt.
 2. Set Path to where File is Located (using cd).
-3. Type `node New.js` and Click Enter
+3. Type `node filename.js` and Click Enter
 ---
 ### Question 1:- Write a program to print this pattern:-
 **Input: 4**
